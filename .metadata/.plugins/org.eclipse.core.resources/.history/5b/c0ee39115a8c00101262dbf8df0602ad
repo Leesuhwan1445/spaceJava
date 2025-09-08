@@ -1,0 +1,14 @@
+package classes;
+
+//은행계좌 클래스를 정의
+public class BankAccount {
+	private String ano; //계좌정의
+	private String owner; //예금주
+	private int balance; //잔액
+	
+	
+	//setter 메서드(설정자)
+
+	
+
+}

@@ -1,0 +1,9 @@
+package classes;
+
+public class Student {
+   //맴버 변수
+   int studentId;//학번
+   
+   
+
+}

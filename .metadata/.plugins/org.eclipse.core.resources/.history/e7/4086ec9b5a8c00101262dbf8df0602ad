@@ -1,0 +1,21 @@
+package classes;
+
+//접근제어자
+// - private : 같은 클래스 내부에서만 접근 가능
+// - default : 같은 패키지내에서만 접근 가능
+// - public :다른패키지에서도 접근 가능
+
+
+public class BankAccountTest {
+
+	public static void main(String[] args) {
+	
+		//1.생성자 호출
+		BankAccount account1 = new BankAccount();
+		
+		
+		//2. 값 입력
+		account1.setAno("11-22-1234");
+}
+
+}
