@@ -1,0 +1,17 @@
+package classes.score;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		//학생 인스턴스 생성
+		Student lee = new Student(1001,"이수환");
+		
+		//과목 입력
+		lee.setKoreanSubject("국어", 90);
+		lee.setMatheSubject("수학, 80);
+		
+	}
+	
+
+}
+

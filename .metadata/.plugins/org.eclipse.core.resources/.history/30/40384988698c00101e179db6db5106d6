@@ -1,0 +1,11 @@
+package score2;
+
+import classes.score.Subject;
+
+public class Student {
+	private int studentId;
+	private String studentName;
+	private Subject[] subjects;
+	
+
+}
